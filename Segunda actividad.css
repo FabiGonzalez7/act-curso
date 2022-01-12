@@ -1,0 +1,33 @@
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Orelega One', cursive;
+font-family: 'Vujahday Script', cursive;*/
+
+
+.Enamarillo{
+    background: #530404;
+    background: linear-gradient(142deg,#530404 0%, rgba(0,255,0,0) 80%);
+    background: -webkit-linear-gradient(142deg,#530404 0%, rgba(0,255,0,0) 80%);
+    background: -moz-linear-gradient(142deg,#530404 0%, rgba(0,255,0,0) 80%);
+    width: 400px;
+    height: 600px;
+    margin-bottom: 300px;
+    box-shadow: black 15px 10px 10px; 
+    border-radius: 0px 40px 40px 0px;
+    font-family: 'Orelega One', cursive;
+}
+
+.Datoarevisar{
+    background-color: crimson;
+    column-count: 6;
+    column-gap: 50px;
+    column-rule: 3px solid black ;
+    font-family: 'Vujahday Script', cursive;
+}
+
+.icono{
+    font-size: 30px;
+}
+
+/* El box sizing: border - box  es el que alinea las cajas en cuianto al tamaño */
+
